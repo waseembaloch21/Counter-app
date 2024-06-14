@@ -1,0 +1,13 @@
+.container {
+    margin-top: 10%;
+    text-align: center;
+}
+
+body{
+    background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg);
+    background-size: cover;
+}
+
+#h1 {
+    font-size: 100px;
+}
